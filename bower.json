@@ -1,0 +1,24 @@
+{
+  "name": "icomoon-madmin-bower",
+  "version": "1.5.0",
+  "homepage": "http://keyamoon.com/icomoon/",
+  "main": [
+    "style.css",
+    "fonts/icomoon.eot",
+    "fonts/icomoon.svg",
+    "fonts/icomoon.ttf",
+    "fonts/icomoon.woff"
+  ],
+  "authors": [
+    "Danilo Recchia"
+  ],
+  "description": "icomoon free font as a bower component",
+  "keywords": [
+    "icomoon",
+    "madmin",
+    "bower"
+  ],
+  "license": "CC BY 3.0 -- http://creativecommons.org/licenses/by/3.0/",
+  "ignore": [
+  ]
+}
