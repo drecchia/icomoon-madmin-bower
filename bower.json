@@ -3,7 +3,7 @@
   "version": "1.5.0",
   "homepage": "http://keyamoon.com/icomoon/",
   "main": [
-    "style.css",
+    "css/style.css",
     "fonts/icomoon.eot",
     "fonts/icomoon.svg",
     "fonts/icomoon.ttf",
