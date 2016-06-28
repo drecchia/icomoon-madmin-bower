@@ -20,5 +20,9 @@
   ],
   "license": "CC BY 3.0 -- http://creativecommons.org/licenses/by/3.0/",
   "ignore": [
+  	"README.md",
+  	"LICENSE",
+  	"license.txt",
+  	"js/lte-ie7.js"
   ]
 }
